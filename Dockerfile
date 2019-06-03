@@ -1,5 +1,5 @@
 # base image
-FROM pelias/baseimage
+FROM dr0i/baseimage
 USER pelias
 
 # Where the app is built and run inside the docker fs
